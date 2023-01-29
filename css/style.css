@@ -77,6 +77,10 @@ body.offcanvas-menu:before {
 	margin-top: 4px;
 }
 
+.mt-5 {
+	margin-top: 0px !important;
+}
+
 .mt-100 {
 	margin-top: 100px;
 }
@@ -2129,5 +2133,9 @@ h4,
 		padding: 30px;
 		color: #f1fafc;
 		min-height: 300px;
+	}
+
+	.mt-5 {
+		margin-top: 70px !important;
 	}
 }
