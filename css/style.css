@@ -77,6 +77,10 @@ body.offcanvas-menu:before {
 	margin-top: 4px;
 }
 
+.mt-5 {
+	margin-top: 0px !important;
+}
+
 .mt-100 {
 	margin-top: 100px;
 }
@@ -180,8 +184,8 @@ h4,
 }
 
 .btn.btn-primary:hover {
-	border-color: #6cd1ce;
-	background: #6cd1ce;
+	border-color: #10bc10;
+	background: #10bc10;
 }
 
 .btn.btn-black {
@@ -1696,8 +1700,7 @@ h4,
 }
 
 .custom-accordion .accordion-item .btn-link:before {
-	font-family: "icomoon";
-	content: "\f067";
+	content: "-";
 	position: absolute;
 	top: 50%;
 	-webkit-transform: translateY(-50%);
@@ -1714,7 +1717,7 @@ h4,
 
 .custom-accordion .accordion-item .btn-link[aria-expanded="true"]:before {
 	font-family: "icomoon";
-	content: "\f068";
+	content: "-";
 	position: absolute;
 	color: #f1fafc;
 	top: 50%;
@@ -2129,5 +2132,9 @@ h4,
 		padding: 30px;
 		color: #f1fafc;
 		min-height: 300px;
+	}
+
+	.mt-5 {
+		margin-top: 70px !important;
 	}
 }
