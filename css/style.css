@@ -28,6 +28,18 @@ body.offcanvas-menu:before {
 	visibility: visible;
 }
 
+::-webkit-scrollbar {
+	width: 5px;
+}
+
+::-webkit-scrollbar-track {
+	background: #f8f9fa;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #0365a0;
+}
+
 .bg-light {
 	background-color: #fff !important;
 }
@@ -952,11 +964,12 @@ h4,
 	.hero .text,
 	.hero .image {
 		width: 100%;
+		padding-top: 3rem;
 	}
 }
 
 .hero .intro {
-	max-width: 450px;
+	max-width: 500px;
 	margin: 0 auto;
 }
 
@@ -1618,13 +1631,14 @@ h4,
 }
 
 .hero-image-wrap {
-	margin-top: 4rem;
+	/* margin-top: 4rem; */
 	width: 50%;
 }
 
 @media (max-width: 991.98px) {
 	.hero-image-wrap {
 		width: 100%;
+		padding-top: 6rem;
 	}
 }
 
