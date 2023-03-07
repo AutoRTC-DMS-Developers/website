@@ -57,7 +57,7 @@ body.offcanvas-menu:before {
 }
 
 .text-green {
-	color: #2ebfa5;
+	color: #00af66;
 }
 
 .text-team {
@@ -109,7 +109,6 @@ body.offcanvas-menu:before {
 	padding-left: 45px;
 }
 
-
 a {
 	color: #0365a0;
 	-webkit-transition: 0.3s all ease;
@@ -132,7 +131,7 @@ a:hover {
 }
 
 .wp-link:hover {
-	color: #2ebfa5;
+	color: #00af66;
 	-webkit-transition: 0.3s all ease;
 	-o-transition: 0.3s all ease;
 	transition: 0.3s all ease;
@@ -197,8 +196,8 @@ h4,
 }
 
 .btn.btn-primary:hover {
-	border-color: #2ebfa5;
-	background: #2ebfa5;
+	border-color: #00af66;
+	background: #00af66;
 }
 
 .btn.btn-black {
@@ -337,7 +336,7 @@ h4,
 
 .logo {
 	font-size: 20px;
-	color: #2ebfa5;
+	color: #00af66;
 	font-weight: 700;
 	left: 0px;
 	top: 50%;
@@ -832,7 +831,7 @@ h4,
 }
 
 #sticky-wrapper.is-sticky .sticky-nav .logo:hover {
-	color: #2ebfa5 !important;
+	color: #00af66 !important;
 }
 
 #sticky-wrapper.is-sticky .sticky-nav .site-menu > li > a {
@@ -1111,7 +1110,7 @@ h4,
 }
 
 .heading .subtitle {
-	color: #2ebfa5;
+	color: #00af66;
 	text-transform: uppercase;
 	font-size: 12px;
 	font-weight: 700;
@@ -1367,14 +1366,14 @@ h4,
 }
 
 .pricing.color-1 {
-	background: #2ebfa5;
+	background: #00af66;
 	/* #5ADED4 */
 }
 
 .pricing {
 	padding: 30px;
 	color: #f8f9fa;
-	min-height: 380px;
+	min-height: 395px;
 }
 
 .pricing.color-2 {
