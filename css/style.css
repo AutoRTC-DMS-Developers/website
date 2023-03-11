@@ -57,7 +57,7 @@ body.offcanvas-menu:before {
 }
 
 .text-green {
-	color: #00af66;
+	color: #4ca146;
 }
 
 .text-team {
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .wp-link:hover {
-	color: #00af66;
+	color: #4ca146;
 	-webkit-transition: 0.3s all ease;
 	-o-transition: 0.3s all ease;
 	transition: 0.3s all ease;
@@ -196,8 +196,8 @@ h4,
 }
 
 .btn.btn-primary:hover {
-	border-color: #00af66;
-	background: #00af66;
+	border-color: #4ca146;
+	background: #4ca146;
 }
 
 .btn.btn-black {
@@ -336,7 +336,7 @@ h4,
 
 .logo {
 	font-size: 20px;
-	color: #00af66;
+	color: #4ca146;
 	font-weight: 700;
 	left: 0px;
 	top: 50%;
@@ -831,7 +831,7 @@ h4,
 }
 
 #sticky-wrapper.is-sticky .sticky-nav .logo:hover {
-	color: #00af66 !important;
+	color: #4ca146 !important;
 }
 
 #sticky-wrapper.is-sticky .sticky-nav .site-menu > li > a {
@@ -1110,7 +1110,7 @@ h4,
 }
 
 .heading .subtitle {
-	color: #00af66;
+	color: #4ca146;
 	text-transform: uppercase;
 	font-size: 12px;
 	font-weight: 700;
@@ -1366,14 +1366,13 @@ h4,
 }
 
 .pricing.color-1 {
-	background: #00af66;
-	/* #5ADED4 */
+	background: #4ca146;
 }
 
 .pricing {
 	padding: 30px;
 	color: #f8f9fa;
-	min-height: 395px;
+	min-height: 330px;
 }
 
 .pricing.color-2 {
